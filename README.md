@@ -409,3 +409,6 @@ VITE_API_BASE_URL=http://localhost:5000/api
 - Notifications
 - Certificates
 - Collaborative learning rooms
+```
+
+## New Updates Comming Soon
